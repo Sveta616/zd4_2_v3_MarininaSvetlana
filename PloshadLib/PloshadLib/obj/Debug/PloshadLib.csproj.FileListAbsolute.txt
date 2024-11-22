@@ -1,0 +1,6 @@
+C:\Users\Professional\Desktop\v3_4zd\PloshadLib\PloshadLib\bin\Debug\PloshadLib.dll
+C:\Users\Professional\Desktop\v3_4zd\PloshadLib\PloshadLib\bin\Debug\PloshadLib.pdb
+C:\Users\Professional\Desktop\v3_4zd\PloshadLib\PloshadLib\obj\Debug\PloshadLib.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\v3_4zd\PloshadLib\PloshadLib\obj\Debug\PloshadLib.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\v3_4zd\PloshadLib\PloshadLib\obj\Debug\PloshadLib.dll
+C:\Users\Professional\Desktop\v3_4zd\PloshadLib\PloshadLib\obj\Debug\PloshadLib.pdb

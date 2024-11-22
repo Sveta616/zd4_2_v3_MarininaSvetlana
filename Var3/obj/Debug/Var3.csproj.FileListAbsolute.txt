@@ -1,0 +1,10 @@
+C:\Users\Professional\Desktop\v3_4zd\Var3\bin\Debug\Var3.exe.config
+C:\Users\Professional\Desktop\v3_4zd\Var3\bin\Debug\Var3.exe
+C:\Users\Professional\Desktop\v3_4zd\Var3\bin\Debug\Var3.pdb
+C:\Users\Professional\Desktop\v3_4zd\Var3\bin\Debug\PloshadLib.dll
+C:\Users\Professional\Desktop\v3_4zd\Var3\bin\Debug\PloshadLib.pdb
+C:\Users\Professional\Desktop\v3_4zd\Var3\obj\Debug\Var3.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\v3_4zd\Var3\obj\Debug\Var3.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\v3_4zd\Var3\obj\Debug\Var3.csproj.Up2Date
+C:\Users\Professional\Desktop\v3_4zd\Var3\obj\Debug\Var3.exe
+C:\Users\Professional\Desktop\v3_4zd\Var3\obj\Debug\Var3.pdb
